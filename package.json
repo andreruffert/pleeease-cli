@@ -25,7 +25,7 @@
     "url": "https://github.com/iamvdo/pleeease-cli"
   },
   "dependencies": {
-    "pleeease": "^4.0.0",
+    "pleeease": "nexflo/pleeease#4.0.1",
     "chokidar": "~1.0.0",
     "cli-color": "~0.3.2",
     "commander": "~2.6.0",
